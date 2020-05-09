@@ -1,0 +1,4 @@
+We give the total weight, i.e. do not enter a decimal point
+We give the height in meters, i.e.
+158 / Error
+1.56 / correct
